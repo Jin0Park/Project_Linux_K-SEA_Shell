@@ -5,7 +5,7 @@
 * Implement the shell to execute child processes from the shell (the shell is the parent process) based on the command.
 
 # Details
-* The shell has a prompt "k-sea-shell>" in front of each command that is typed out.
+## The shell has a prompt "k-sea-shell>" in front of each command that is typed out.
 * The maximum input size(i.e. BUFFER_SIZE) on a given line will be 80 characters for the shell.
 * When a new child process is launched from the shell, the child process runs in the foreground by default until it is completed.
 * The shell has some built-in functions. 
